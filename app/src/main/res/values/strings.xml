@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ContactBook</string>
+    <string name="btn_continue">Continue</string>
+    <string name="userIdHeader">User</string>
+    <string name="statusHeader">Status</string>
+    <string name="stagingHeader">Staging</string>
+    <string name="contactIdHeader">Contact</string>
+    <string name="_contextHeader">Context</string>
+    <string name="selectContactTitle">Select Contact</string>
 </resources>
